@@ -47,7 +47,7 @@ namespace ex17._1_For_e_While
         {
             foreach (Form frm in Application.OpenForms)
             {
-                frm.Close();
+                frm.Close(); 
             }
         }
     }
